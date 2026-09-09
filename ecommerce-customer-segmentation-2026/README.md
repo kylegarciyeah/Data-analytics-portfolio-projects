@@ -14,7 +14,7 @@ Understand which customers contribute the most spending and lifetime value, and 
 
 - Python: pandas, Matplotlib, and seaborn
 - Google Colab: data preparation and exploratory analysis
-- Power BI: interactive dashboard
+- Power BI: dashboard development and visualization
 - GitHub: project documentation
 
 ## Dataset
