@@ -79,6 +79,17 @@ Values are rounded for display. Total spending reflects the dataset's cumulative
 
 These are proposed actions based on exploratory findings, not measured campaign outcomes.
 
+### Potential Retention Value
+
+The 1,511 high-value customers with elevated churn risk represent approximately $128.57 million in customer lifetime value. Based on scenario analysis:
+
+- Retaining 5% of this value could preserve approximately **$6.43 million** in CLV.
+- Retaining 10% could preserve approximately **$12.86 million**.
+- Retaining 20% could preserve approximately **$25.71 million**.
+- Retaining 25% could preserve approximately **$32.14 million**.
+
+These figures are scenario estimates based on the CLV associated with the identified at-risk customer group. They represent potential value retained rather than measured or guaranteed campaign outcomes.
+
 ## Limitations
 
 - Churn risk, CLV, RFM scores, and several segment labels are supplied by the dataset.
