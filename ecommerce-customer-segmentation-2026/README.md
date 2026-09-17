@@ -97,6 +97,7 @@ These figures are scenario estimates based on the CLV associated with the identi
 - CLV at risk is the sum of CLV for flagged customers, not a probability-weighted forecast of losses.
 - Associations between loyalty, behavior, and value do not establish causation.
 - Missing-value replacements are analytical assumptions documented in the notebook.
+- The dataset does not document how CLV was calculated or the time period it covers. The $128.57 million is CLV associated with the 1,511 flagged customers, not a forecast of future losses or campaign savings.
 
 ## Project Files
 
