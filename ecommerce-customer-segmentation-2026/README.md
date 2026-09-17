@@ -6,7 +6,7 @@ An exploratory customer analytics project using Python and Power BI to identify 
 
 ![E-Commerce Customer Segmentation Dashboard](ecommerce_customer_segmentation_dashboard.png)
 
-## 🔗 Business Objective
+## Business Objective
 
 Understand which customers contribute the most spending and lifetime value, and identify high-value customers with elevated churn risk for targeted retention campaigns.
 
