@@ -6,9 +6,13 @@ An exploratory customer analytics project using Python and Power BI to identify 
 
 ![E-Commerce Customer Segmentation Dashboard](ecommerce_customer_segmentation_dashboard.png)
 
-## Business Objective
+## 🔗 Business Objective
 
 Understand which customers contribute the most spending and lifetime value, and identify high-value customers with elevated churn risk for targeted retention campaigns.
+
+## Problem Statement
+
+High-value customers contribute significantly to the business's overall customer value, making their potential churn a major concern. This project focuses on identifying high-value customers who are at risk of churning and measuring the customer lifetime value associated with these customers. The analysis provides insights that can help the business prioritize targeted retention efforts and reduce potential customer value loss.
 
 ## Tools
 
